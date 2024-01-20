@@ -1,0 +1,24 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header
+{
+    background-color: rgb(7, 245, 35);
+    display: flex;
+    justify-content: inline-flexbox
+}
+.grid{
+    display: flex;
+    justify-content:space-between;
+}
+.footer{
+    display:flex;
+    justify-content: flow-root
+}
+body{
+    background-color: rgb(256,256,256);
+}
